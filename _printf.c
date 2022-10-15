@@ -7,7 +7,7 @@
  * determine which printing function to call depending on the conversion
  * specifiers contained into fmt
  * Return: length of the formatted output string
- * Authors: Ehoneah Obed & Abdulhakeem Badejo
+ * Authors: Sharma Muridzo, Eric Taruwinga
  */
 int _printf(const char *format, ...)
 {
